@@ -23,10 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![test](https://richard-smith-67.github.io/fast800v3/assets/images/scott.jpg)
+[Link](url) and ![image](https://richard-smith-67.github.io/fast800v3/assets/images/scott.jpg)
 
-![megan](https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2021/3/8/d90eb07f-b48e-4820-bdb8-1bf5848c86f9.jpg)
-```
+![image](assets/images/scott.jpg)
+
+![image](https://user-images.githubusercontent.com/5879154/110319705-2d6a4e00-8007-11eb-9a91-eeee9c22b50b.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
