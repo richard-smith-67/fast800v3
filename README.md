@@ -18,8 +18,6 @@ Lunch - leftover soup from day before and some cheese on toast
 
 [Fast800](https://www.amazon.co.uk/Fast-800-combine-intermittent-long-term/dp/1780723628/ref=sr_1_2?dchild=1&keywords=fast+800&qid=1615143147&sr=8-2) is delivered. I read about half of it. Having done the 5:2 diet I wanted a more hardcore approach. Mosley is credible and bases his books on current research.
 
-Dinner - remnants of a Morrison's chicken madras and some rice
-
 Final snack at 8pm - 2 slices of cheese on toast with onion and salad cream (nom!)
 
 Lots of cups of coffee throughout day
