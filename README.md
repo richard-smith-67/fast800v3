@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![scott]("https://richard-smith-67.github.io/fast800v3/assets/images/scott.jpg")
+[Link](url) and ![test](https://richard-smith-67.github.io/fast800v3/assets/images/scott.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
