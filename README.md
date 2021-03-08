@@ -23,7 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![image](assets/images/scott.jpg, "scott")
+![image]("scott", assets/images/scott.jpg)
+
+![image](https://user-images.githubusercontent.com/5879154/110320229-e466c980-8007-11eb-9175-13b7039b6403.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
