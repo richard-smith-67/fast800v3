@@ -38,9 +38,14 @@ Midnight - Stomach rumnbling. Can't stop thinking about eating. I know I'll neve
 
 Weight - 86kg
 
-8.45 am - 40g porridge, 250ml milk, 1 cup black coffee
+08.45 - 40g porridge, 250ml milk, 1 cup black coffee
 
 12.30 remainder of lentil and bacon soup from last night, handful of edamane beans, some broccoli and a couple of baby beetroot
+
+Afternoon - lots of black coffee
+
+19:30 chicken and lentil curry (nom!)
+
 
 
 
